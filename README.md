@@ -17,4 +17,4 @@
  a=4
  b=6
  c=a+b
- print("{} and {} is {}".format
+ print("{} and {} is {}".format(a,b,c))
